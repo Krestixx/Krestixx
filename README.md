@@ -25,3 +25,4 @@ Role    : Backend Engineer / System Architect
 Status  : [ONLINE] Breaking & fixing code 24/7
 Uptime  : 99.99% coffee-driven execution
 --------------------------------------------------
+![My Skills](https://skillicons.dev/icons?i=py,go,fastapi,postgres,docker,linux,git,neovim,vscode&theme=dark)
