@@ -29,10 +29,6 @@ Uptime  : 99.99% coffee-driven execution
 --------------------------------------------------
 ```
 
-    </td>
-  </tr>
-</table>
-
 ![My Skills](https://skillicons.dev/icons?i=py,go,fastapi,postgres,docker,linux,git,neovim,vscode&theme=dark)
 
 <div align="center">
