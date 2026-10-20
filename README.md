@@ -30,4 +30,4 @@ Uptime  : 99.99% coffee-driven execution
 ![My Skills](https://skillicons.dev/icons?i=py,go,fastapi,postgres,docker,linux,git,neovim,vscode&theme=dark)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nextdoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050811&title_color=00FF66&icon_color=00FFFF&text_color=A9B1D6)
+[![Telegram](https://img.shields.io/badge/Telegram-@Nex1Door-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nex1Door) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/nextdppr/dataset-demo/discussions/1) [![Gmail](https://img.shields.io/badge/Encrypted_Mail-hahdan14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hahdan14@gmail.com)
