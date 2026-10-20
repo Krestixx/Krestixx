@@ -26,4 +26,8 @@ Status  : [ONLINE] Breaking & fixing code 24/7
 Uptime  : 99.99% coffee-driven execution
 --------------------------------------------------
 ```
+
 ![My Skills](https://skillicons.dev/icons?i=py,go,fastapi,postgres,docker,linux,git,neovim,vscode&theme=dark)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nextdoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050811&title_color=00FF66&icon_color=00FFFF&text_color=A9B1D6)
