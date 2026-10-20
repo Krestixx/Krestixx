@@ -30,4 +30,4 @@ Uptime  : 99.99% coffee-driven execution
 ![My Skills](https://skillicons.dev/icons?i=py,go,fastapi,postgres,docker,linux,git,neovim,vscode&theme=dark)
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Nex1Door-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nex1Door) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/nextdppr) [![Gmail](https://img.shields.io/badge/Encrypted_Mail-hahdan14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hahdan14@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@Nex1Door-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nex1Door) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-@nextdppr-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/nextdppr) [![Gmail](https://img.shields.io/badge/Encrypted_Mail-hahdan14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hahdan14@gmail.com)
