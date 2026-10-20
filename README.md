@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Krestixx/Krestixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Неоновый киберпанк-баннер -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00FF66&height=200&section=header&text=NEXTDOOR%20//%20NETRUNNER&fontSize=40&fontAlignY=35&fontColor=00FF66&animation=twinkling" width="100%" />
 
-Here are some ideas to get you started:
+  <!-- Анимированная терминальная строка -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF66&center=true&vCenter=true&width=550&lines=%3E+Initializing+neural+link...;%3E+Backend+Developer;%3E+Breaking+%26+fixing+code+24%2F7" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### ⚡ System Information (`neofetch`)
+
+```bash
+root@nextdoor:~$ neofetch --profile
+--------------------------------------------------
+OS      : Arch Linux x86_64 / Windows 10 [Dual-Boot Engine]
+Host    : Neural Core Matrix v4.2
+Shell   : fish 3.6+
+Editor  : Neovim // VS Code
+Role    : Backend Engineer / System Architect
+Status  : [ONLINE] Breaking & fixing code 24/7
+Uptime  : 99.99% coffee-driven execution
+--------------------------------------------------
