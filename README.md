@@ -15,12 +15,6 @@
 
 ### ⚡ System Information (`neofetch`)
 
-<table>
-  <tr>
-    <td width="150">
-      <img src="https://nex1door.github.io/avatar.jpg" width="150" alt="avatar" />
-    </td>
-    <td>
 
 ```bash
 root@nexdoor:~$ neofetch --profile
