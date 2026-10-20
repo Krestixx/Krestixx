@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Неоновый киберпанк-баннер -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0a1a,100:b026ff&height=200&section=header&text=NEXDOOR%20%2F%2F%20NETRUNNER&fontSize=40&fontAlignY=35&fontColor=e14eff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0a1a,100:b026ff&height=200&section=header&text=NEX1DOOR%20%2F%2F%20NETRUNNER&fontSize=40&fontAlignY=35&fontColor=e14eff&animation=twinkling" width="100%" />
 
 
   <!-- Анимированная терминальная строка -->
