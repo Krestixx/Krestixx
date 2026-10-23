@@ -19,7 +19,7 @@
 ```bash
 root@nexdoor:~$ neofetch --profile
 --------------------------------------------------
-OS      : Arch Linux x86_64 / Windows 10 [Dual-Boot Engine]
+OS      : Cachy Os & xfce4/openbox
 Host    : Neural Core Matrix v4.2
 Shell   : fish 3.6+
 Editor  : Neovim // VS Code
